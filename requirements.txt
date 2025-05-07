@@ -1,0 +1,7 @@
+streamlit
+validators
+langchain
+langchain_groq
+youtube-transcript-api
+yt-dlp
+certifi
